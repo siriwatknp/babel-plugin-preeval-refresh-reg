@@ -1,5 +1,6 @@
 {
   "name": "babel-plugin-preeval-refresh-reg",
+  "version": "0.0.1",
   "description": "A babel plugin to make wyw-in-js works with React refresh",
   "repository": {
     "type": "git",
@@ -10,7 +11,6 @@
     "name": "siriwatknp",
     "url": "https://siriwatk.dev"
   },
-  "version": "0.1.0",
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/babel-plugin-preeval-refresh-reg.esm.js",
